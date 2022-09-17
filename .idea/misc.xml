@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable-anydpi/defualt_insta_pic.xml" value="0.1655" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable-anydpi/ic_back_arrow.xml" value="0.1655" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/blue_button.xml" value="0.193" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/btn_shape_1.xml" value="0.126" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/color_1.xml" value="0.1665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/color_2.xml" value="0.1665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/color_3.xml" value="0.1665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/color_4.xml" value="0.1665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/ic_add_story.xml" value="0.126" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/ic_home.xml" value="0.132" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/ic_plus.xml" value="0.1665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/ic_send.xml" value="0.1665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/ic_story_view.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/ic_user.xml" value="0.126" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/drawable/insta_animation.xml" value="0.1665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_followers_following.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_main.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_message.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_registration.xml" value="0.1662921348314607" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_user_search_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_user_search_view_post.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/activity_verify_phone.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/fragment_chats.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/fragment_friends.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/fragment_home_post_viewer.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/fragment_profile.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/friends_single_layout.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/layout_grid_imageview.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/like_each_item_layout.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/msg_item_left.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/story_items.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/layout/user_search_items.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/menu/home_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_instaclone.xml" value="0.132" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Parewa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_instaclone_round.xml" value="0.132" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

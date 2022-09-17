@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577383018450",
+    "firebase_url": "https://parewa-15841-default-rtdb.firebaseio.com",
+    "project_id": "parewa-15841",
+    "storage_bucket": "parewa-15841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577383018450:android:d0b229ce9bd21a4276e20b",
+        "android_client_info": {
+          "package_name": "my.app.parewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577383018450-5k6d08gnheeuepe8ddd7mssjk7vs5unq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwb1w1LB_c71ZmCDK0OMvBDVBtTMMKKa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577383018450-5k6d08gnheeuepe8ddd7mssjk7vs5unq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
