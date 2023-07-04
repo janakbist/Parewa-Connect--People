@@ -1,4 +1,4 @@
-# <img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Parewa
+# <h1/>Parewa
 
 ## Installation Guide
 1. Clone repository
